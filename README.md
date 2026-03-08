@@ -1,2 +1,2 @@
-# Machine_Learning_internship_at_elevvo
+# MachineLearningInternship
 This internship contain all the task that i have done during internship of Machine Learning
